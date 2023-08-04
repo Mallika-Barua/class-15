@@ -1,0 +1,36 @@
+.box1 {
+    background-color: greenyellow;
+    padding: 30px 50px;
+    display: block;
+    margin-bottom:  inherit;
+    margin-top: inherit;
+    margin-bottom: auto;
+    margin-left: auto;
+    
+    
+}
+.box2{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    background-color: khaki;
+    max-width: 50%;
+    border: 2px dotted black;
+}
+.box3{
+    height: 150px;
+    width: 150px;
+    padding: 2px 50px;
+    border: 5px solid green;
+    outline: 5px dashed blue;
+    outline-offset: 6px;
+    direction: rtl;
+    
+}
+#bro {
+    vertical-align: super;
+    
+}
+
+    
+}
